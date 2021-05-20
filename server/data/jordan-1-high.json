@@ -1,0 +1,275 @@
+{
+  "count": 280,
+  "results": [
+    {
+      "id": "02600cb6-9369-46ca-93fb-a1ade2212ea4",
+      "brand": "Jordan",
+      "colorway": "Bordeaux/White-Metallic Silver",
+      "gender": "men",
+      "name": "Bordeaux",
+      "releaseDate": "2021-10-20",
+      "retailPrice": 170,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "555088-611",
+      "title": "Jordan 1 Retro High Bordeaux",
+      "year": 2021,
+      "media": {
+        "imageUrl": null,
+        "smallImageUrl": null,
+        "thumbUrl": null
+      }
+    },
+    {
+      "id": "d290e592-2552-4a00-a705-3102caecc473",
+      "brand": "Jordan",
+      "colorway": "Black/Gold",
+      "gender": "men",
+      "name": "Pollen",
+      "releaseDate": "2021-08-21",
+      "retailPrice": 170,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "555088-701",
+      "title": "Jordan 1 Retro High Pollen",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Pollen.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619481956",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Pollen.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619481956",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Pollen.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619481956"
+      }
+    },
+    {
+      "id": "5bf43351-3215-41df-9cb9-6340eba658d2",
+      "brand": "Jordan",
+      "colorway": "White/Electro Orange-Black",
+      "gender": "men",
+      "name": "Electro Orange",
+      "releaseDate": "2021-07-17",
+      "retailPrice": 170,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "555088-180",
+      "title": "Jordan 1 Retro High Electro Orange",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Electro-Orange.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619472944",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Electro-Orange.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619472944",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Electro-Orange.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619472944"
+      }
+    },
+    {
+      "id": "1aafa0b7-0821-4f5f-a42f-bfdaeb2d677d",
+      "brand": "Jordan",
+      "colorway": "Black/White-Light Smoke Grey",
+      "gender": "men",
+      "name": "Shadow 2.0",
+      "releaseDate": "2021-05-15",
+      "retailPrice": 170,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "555088-035",
+      "title": "Jordan 1 Retro High Shadow 2.0",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Black-White-Light-Smoke-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1621255681",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Black-White-Light-Smoke-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1621255681",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Black-White-Light-Smoke-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1621255681"
+      }
+    },
+    {
+      "id": "46961046-bbab-40f0-9ba9-886f51361ed1",
+      "brand": "Jordan",
+      "colorway": "Black/White-Light Smoke Grey",
+      "gender": "child",
+      "name": "Shadow 2.0 (GS)",
+      "releaseDate": "2021-05-15",
+      "retailPrice": 130,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "575441-035",
+      "title": "Jordan 1 Retro High Shadow 2.0 (GS)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Black-White-Light-Smoke-Grey-GS-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1621280781",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Black-White-Light-Smoke-Grey-GS-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1621280781",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Black-White-Light-Smoke-Grey-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1621280781"
+      }
+    },
+    {
+      "id": "ffb37fe1-1b7a-4285-b91b-3870ba9fbeff",
+      "brand": "Jordan",
+      "colorway": "Black/Grey-Rust",
+      "gender": "men",
+      "name": "Light Army Rust Shadow Patina",
+      "releaseDate": "2021-05-04",
+      "retailPrice": 170,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "555088-033",
+      "title": "Jordan 1 Retro High Light Army Rust Shadow Patina",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Rust-Shadow-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1617132835",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Rust-Shadow-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1617132835",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Rust-Shadow-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1617132835"
+      }
+    },
+    {
+      "id": "282024d1-685b-437f-bf37-78273f1e287f",
+      "brand": "Jordan",
+      "colorway": "White/Court Purple",
+      "gender": "toddler",
+      "name": "Court Purple (TD) (2021)",
+      "releaseDate": "2021-05-03",
+      "retailPrice": 0,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "CU0450-151",
+      "title": "Jordan 1 Retro High Court Purple (TD) (2021)",
+      "year": 2021,
+      "media": {
+        "imageUrl": null,
+        "smallImageUrl": null,
+        "thumbUrl": null
+      }
+    },
+    {
+      "id": "292d3890-ff1e-4b30-9f36-cc327faeda60",
+      "brand": "Jordan",
+      "colorway": "White/Court Purple",
+      "gender": "preschool",
+      "name": "Court Purple (PS) (2021)",
+      "releaseDate": "2021-05-03",
+      "retailPrice": 0,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "CU0449-151",
+      "title": "Jordan 1 Retro High Court Purple (PS) (2021)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Court-Purple-PS-2021.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1615819982",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Court-Purple-PS-2021.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1615819982",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Court-Purple-PS-2021.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1615819982"
+      }
+    },
+    {
+      "id": "28aff902-d9a8-4dfa-b6b8-12d2971eefcb",
+      "brand": "Jordan",
+      "colorway": "Hyper Royal/Light Smoke Grey-White",
+      "gender": "men",
+      "name": "Hyper Royal Smoke Grey",
+      "releaseDate": "2021-04-17",
+      "retailPrice": 170,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "555088-402",
+      "title": "Jordan 1 Retro High OG Hyper Royal",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Hyper-Royal-Smoke-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618238995",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Hyper-Royal-Smoke-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618238995",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Hyper-Royal-Smoke-Grey-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618238995"
+      }
+    },
+    {
+      "id": "1c6d7f01-6e6b-4c96-96d9-892273f2d763",
+      "brand": "Jordan",
+      "colorway": "White/University Blue-Black",
+      "gender": "child",
+      "name": "White University Blue Black (GS)",
+      "releaseDate": "2021-03-06",
+      "retailPrice": 130,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "575441-134",
+      "title": "Jordan 1 Retro High White University Blue Black (GS)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-White-University-Blue-Black-GS-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1612902623",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-White-University-Blue-Black-GS-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1612902623",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-White-University-Blue-Black-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1612902623"
+      }
+    },
+    {
+      "id": "3d2b0362-4ae2-4983-bd5d-df0dc40e5183",
+      "brand": "Jordan",
+      "colorway": "University Blue/White-Black-University Blue",
+      "gender": "toddler",
+      "name": "University Blue (TD)",
+      "releaseDate": "2021-03-06",
+      "retailPrice": 0,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "AQ2665-134",
+      "title": "Jordan 1 Retro High University Blue (TD)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-University-Blue-TD-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1616520545",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-University-Blue-TD-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1616520545",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-University-Blue-TD-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1616520545"
+      }
+    },
+    {
+      "id": "dd830775-6cb7-40f4-8ef3-4d944c897fce",
+      "brand": "Jordan",
+      "colorway": "White/University Blue-Black",
+      "gender": "men",
+      "name": "White University Blue Black",
+      "releaseDate": "2021-03-06",
+      "retailPrice": 170,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "555088-134",
+      "title": "Jordan 1 Retro High White University Blue Black",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-White-University-Blue-Black-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1611777406",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-White-University-Blue-Black-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1611777406",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-White-University-Blue-Black-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1611777406"
+      }
+    },
+    {
+      "id": "ceaf429d-7cb5-4101-9841-2718be1f3cb0",
+      "brand": "Jordan",
+      "colorway": "Black/Metallic Silver-White-Black",
+      "gender": "women",
+      "name": "Silver Toe (W)",
+      "releaseDate": "2021-02-19",
+      "retailPrice": 170,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "CD0461-001",
+      "title": "Jordan 1 Retro High Silver Toe (W)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Silver-Toe-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1611952888",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Silver-Toe-W-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1611952888",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Silver-Toe-W-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1611952888"
+      }
+    },
+    {
+      "id": "6c2dc877-b18f-4fba-89b3-c49560fa3f8c",
+      "brand": "Jordan",
+      "colorway": "WHITE/VARSITY RED-SAIL-BLACK",
+      "gender": "men",
+      "name": "Trophy Room Chicago (Friends and Family) (W/ Blue Laces)",
+      "releaseDate": "2021-02-10",
+      "retailPrice": 190,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "DA2728-100",
+      "title": "Jordan 1 Retro High Trophy Room Chicago (Friends and Family) (W/ Blue Laces)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Trophy-Room-Chicago-Friends-and-Family-W-Blue-Laces.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1613844328",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Trophy-Room-Chicago-Friends-and-Family-W-Blue-Laces.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1613844328",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Trophy-Room-Chicago-Friends-and-Family-W-Blue-Laces.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1613844328"
+      }
+    },
+    {
+      "id": "77ef2ba5-cb31-49be-be14-8507c4648763",
+      "brand": "Jordan",
+      "colorway": "White/Varsity Red-Sail-Black",
+      "gender": "men",
+      "name": "Trophy Room Chicago",
+      "releaseDate": "2021-02-10",
+      "retailPrice": 190,
+      "shoe": "Jordan 1 Retro High",
+      "styleId": "DA2728-100",
+      "title": "Jordan 1 Retro High Trophy Room Chicago",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Trophy-Room-Chicago-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1608570012",
+        "smallImageUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Trophy-Room-Chicago-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1608570012",
+        "thumbUrl": "https://images.stockx.com/images/Air-Jordan-1-Retro-High-Trophy-Room-Chicago-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1608570012"
+      }
+    }
+  ]
+}

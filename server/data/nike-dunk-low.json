@@ -1,0 +1,275 @@
+{
+  "count": 213,
+  "results": [
+    {
+      "id": "4ec6b400-7e3a-45ed-b397-6584f625340a",
+      "brand": "Nike",
+      "colorway": "White/Team Green-White",
+      "gender": "men",
+      "name": "Spartan Green",
+      "releaseDate": "2021-06-03",
+      "retailPrice": 100,
+      "shoe": "Nike Dunk Low",
+      "styleId": "DD1391-101",
+      "title": "Nike Dunk Low Spartan Green",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Team-Green.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1617577383",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Team-Green.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1617577383",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Team-Green.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1617577383"
+      }
+    },
+    {
+      "id": "b063f21b-b98b-4dda-b076-c958cc724b09",
+      "brand": "Nike",
+      "colorway": "University Gold/Navy/White",
+      "gender": "men",
+      "name": "Michigan",
+      "releaseDate": "2021-06-03",
+      "retailPrice": 100,
+      "shoe": "Nike Dunk Low",
+      "styleId": "DD1391-700",
+      "title": "Nike Dunk Low Michigan",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Michigan-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619204735",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Michigan-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619204735",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Michigan-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619204735"
+      }
+    },
+    {
+      "id": "7e1960e5-ecdb-4877-a412-7c225aeb7f1c",
+      "brand": "Nike",
+      "colorway": "Olive/Brown/Orange",
+      "gender": "men",
+      "name": "Olive Brown Orange",
+      "releaseDate": "2021-05-21",
+      "retailPrice": 100,
+      "shoe": "Nike Dunk Low",
+      "styleId": "DH5360-300",
+      "title": "Nike Dunk Low Olive Brown Orange",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Olive-Brown-Orange.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1621004185",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Olive-Brown-Orange.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1621004185",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Olive-Brown-Orange.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1621004185"
+      }
+    },
+    {
+      "id": "abf0d210-d74c-4282-9946-b904b654f612",
+      "brand": "Nike",
+      "colorway": "Barely Green/Peach/White-Barely Green",
+      "gender": "women",
+      "name": "Barely Green (W)",
+      "releaseDate": "2021-05-21",
+      "retailPrice": 100,
+      "shoe": "Nike Dunk Low",
+      "styleId": "DD1503-104",
+      "title": "Nike Dunk Low Barely Green (W)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Barely-Green-W.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620868639",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Barely-Green-W.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620868639",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Barely-Green-W.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620868639"
+      }
+    },
+    {
+      "id": "796882e1-685f-4bbb-8720-075b76db84dd",
+      "brand": "Nike",
+      "colorway": "White/Photon Dust-White",
+      "gender": "women",
+      "name": "Photon Dust (W)",
+      "releaseDate": "2021-05-19",
+      "retailPrice": 100,
+      "shoe": "Nike Dunk Low",
+      "styleId": "DD1503-103",
+      "title": "Nike Dunk Low Photon Dust (W)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Photon-Dust-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620404906",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Photon-Dust-W-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620404906",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Photon-Dust-W-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620404906"
+      }
+    },
+    {
+      "id": "c446db11-28ee-4446-8eb1-69a01abf6c62",
+      "brand": "Nike",
+      "colorway": "Sunset Pulse/Silver-Purple Pulse",
+      "gender": "women",
+      "name": "Sunset Pulse (W)",
+      "releaseDate": "2021-05-19",
+      "retailPrice": 100,
+      "shoe": "Nike Dunk Low",
+      "styleId": "DN0855-600",
+      "title": "Nike Dunk Low Sunset Pulse (W)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Sunset-Pulse-W.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619834860",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Sunset-Pulse-W.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619834860",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Sunset-Pulse-W.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619834860"
+      }
+    },
+    {
+      "id": "14452fdb-2ff1-4b1a-b857-e0628b7fb5fa",
+      "brand": "Nike",
+      "colorway": "White/Multicolor-Multicolor",
+      "gender": "child",
+      "name": "Free 99 White (GS)",
+      "releaseDate": "2021-05-07",
+      "retailPrice": 0,
+      "shoe": "Nike Dunk Low",
+      "styleId": "CZ2496-100",
+      "title": "Nike Dunk Low Free 99 White (GS)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Free-99-White-GS.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620285308",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Free-99-White-GS.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620285308",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Free-99-White-GS.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620285308"
+      }
+    },
+    {
+      "id": "cad333fc-7cdf-4120-b5d7-de8094d46337",
+      "brand": "Nike",
+      "colorway": "Black/Multicolor-Multicolor",
+      "gender": "child",
+      "name": "Free 99 Black (GS)",
+      "releaseDate": "2021-05-07",
+      "retailPrice": 0,
+      "shoe": "Nike Dunk Low",
+      "styleId": "CZ2496-001",
+      "title": "Nike Dunk Low Free 99 Black (GS)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Free-99-Black-GS.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620285274",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Free-99-Black-GS.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620285274",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Free-99-Black-GS.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620285274"
+      }
+    },
+    {
+      "id": "5c3ebb72-583c-40da-85c2-52a5a5676847",
+      "brand": "Nike",
+      "colorway": "White/Green Glow-White",
+      "gender": "women",
+      "name": "Green Glow (W)",
+      "releaseDate": "2021-04-16",
+      "retailPrice": 100,
+      "shoe": "Nike Dunk Low",
+      "styleId": "DD1503-105",
+      "title": "Nike Dunk Low Green Glow (W)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Green-Glow-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619204705",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Green-Glow-W-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619204705",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Green-Glow-W-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619204705"
+      }
+    },
+    {
+      "id": "ba8ddeb2-62c1-4001-8890-a9b0e9dbd811",
+      "brand": "Nike",
+      "colorway": "Varsity Maize/Midnight Navy",
+      "gender": "preschool",
+      "name": "Michigan 2021 (PS)",
+      "releaseDate": "2021-04-16",
+      "retailPrice": 65,
+      "shoe": "Nike Dunk Low",
+      "styleId": "CW1588-700",
+      "title": "Nike Dunk Low Michigan 2021 (PS)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Michigan-2021-PS.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620936633",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Michigan-2021-PS.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620936633",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Michigan-2021-PS.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1620936633"
+      }
+    },
+    {
+      "id": "e3fd6ecd-7b13-4fe2-9d86-2476fcfe3a81",
+      "brand": "Nike",
+      "colorway": "University Gold/Navy/White",
+      "gender": "child",
+      "name": "Michigan (GS)",
+      "releaseDate": "2021-04-16",
+      "retailPrice": 100,
+      "shoe": "Nike Dunk Low",
+      "styleId": "CW1590-700",
+      "title": "Nike Dunk Low Michigan (GS)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Michigan-GS-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619807823",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Michigan-GS-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619807823",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Michigan-GS-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619807823"
+      }
+    },
+    {
+      "id": "f6a2cedb-1de0-4d16-b23d-45733668c642",
+      "brand": "Nike",
+      "colorway": "White/Team Green-White",
+      "gender": "child",
+      "name": "Team Green (GS)",
+      "releaseDate": "2021-04-16",
+      "retailPrice": 100,
+      "shoe": "Nike Dunk Low",
+      "styleId": "CW1590-102",
+      "title": "Nike Dunk Low Team Green (GS)",
+      "year": 2021,
+      "media": {
+        "imageUrl": null,
+        "smallImageUrl": null,
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Olive-Brown-Orange.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1621004185"
+      }
+    },
+    {
+      "id": "bc36ccd9-de6c-494b-adf9-56e2f5e872e5",
+      "brand": "Nike",
+      "colorway": "College Navy/Grey",
+      "gender": "women",
+      "name": "College Navy Grey (W)",
+      "releaseDate": "2021-03-29",
+      "retailPrice": 100,
+      "shoe": "Nike Dunk Low",
+      "styleId": "DD1768-400",
+      "title": "Nike Dunk Low College Navy Grey (W)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-College-Navy-Grey-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1615920429",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-College-Navy-Grey-W-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1615920429",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-College-Navy-Grey-W-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1615920429"
+      }
+    },
+    {
+      "id": "e55a750d-344b-4522-a76f-8bb5972a19cf",
+      "brand": "Nike",
+      "colorway": "Sail/Medium Curry-Fossil",
+      "gender": "men",
+      "name": "Medium Curry",
+      "releaseDate": "2021-03-29",
+      "retailPrice": 110,
+      "shoe": "Nike Dunk Low",
+      "styleId": "DD1390-100",
+      "title": "Nike Dunk Low Medium Curry",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Medium-Curry-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1612991778",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Medium-Curry-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1612991778",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-Medium-Curry-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1612991778"
+      }
+    },
+    {
+      "id": "03527871-a4f4-4c27-8d6a-83cb2a9b41e9",
+      "brand": "Nike",
+      "colorway": "Multi-Color/Multi-Color",
+      "gender": "women",
+      "name": "Green Strike (W)",
+      "releaseDate": "2021-03-15",
+      "retailPrice": 100,
+      "shoe": "Nike Dunk Low",
+      "styleId": "DD1503-106",
+      "title": "Nike Dunk Low Green Strike (W)",
+      "year": 2021,
+      "media": {
+        "imageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-White-Multicolor-W-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1616520984",
+        "smallImageUrl": "https://images.stockx.com/images/Nike-Dunk-Low-White-Multicolor-W-Product.jpg?fit=fill&bg=FFFFFF&w=300&h=214&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1616520984",
+        "thumbUrl": "https://images.stockx.com/images/Nike-Dunk-Low-White-Multicolor-W-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=100&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1616520984"
+      }
+    }
+  ]
+}
